@@ -1,0 +1,178 @@
+h1 {
+  font-family: Arial;
+  font-size: 3rem;
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: olive;
+  margin: 0px;
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+  color: olive;
+  padding-left: 50em;
+  margin-top: 50em;
+  height: 50rm;
+}
+
+.navigation {
+  margin: 0px;
+}
+
+h2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 9rem;
+  margin-bottom: 0rem;
+  margin-top: 0rem;
+}
+
+.what-we-offer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: left;
+  width: 75rem;
+  height: 19em;
+}
+
+.navigation {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  gap: 4ch;
+}
+
+.food-options {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2ch;
+  width: 9rem;
+  height: 10rems;
+}
+
+.testimonials {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 40%rem;
+  font-size: 1rem;
+}
+
+#customer-review {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgb(214, 214, 214);
+  width: 40rem;
+  border: 5 solid grey;
+  height: 3rem;
+  font-style: italic;
+}
+
+#bread {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: olive;
+  border: 5 solid olive;
+  border-radius: 5px;
+  width: 8rem;
+  height: 2rem;
+  font-size: 20px;
+  color: black;
+}
+
+#cakes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: olive;
+  border: 5 solid olive;
+  border-radius: 5px;
+  width: 8rem;
+  height: 2rem;
+  font-size: 20px;
+  color: black;
+}
+
+#cookies {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: olive;
+  border: 5 solid olive;
+  border-radius: 5px;
+  width: 8rem;
+  height: 2rem;
+  font-size: 20px;
+  color: black;
+}
+
+#muffins {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: olive;
+  border: 5 solid olive;
+  border-radius: 5px;
+  width: 8rem;
+  height: 2rem;
+  font-size: 20px;
+  color: black;
+}
+
+#pies {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: olive;
+  border: 5 solid olive;
+  border-radius: 5px;
+  width: 8rem;
+  height: 2rem;
+  font-size: 20px;
+  color: black;
+}
+
+#menus {
+  font-size: 1rem;
+  color: olive;
+}
+
+#catering {
+  font-size: 1rem;
+  color: olive;
+}
+
+#recipes {
+  font-size: 1 rem;
+  color: olive;
+}
+
+#about-us {
+  font-size: 1rem;
+  color: olive;
+}

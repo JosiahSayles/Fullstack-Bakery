@@ -5,9 +5,9 @@ h1 {
   padding: 0px;
 }
 body {
+  height: 100vh;
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
 }
 
 a {
@@ -24,11 +24,13 @@ header {
 }
 
 footer {
+  height: 1rem;
+  display: flex;
+  flex-direction: column;
   background-color: black;
   color: olive;
-  padding-left: 50em;
-  margin-top: 50em;
-  height: 50rm;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: center;
 }
 
 .navigation {
